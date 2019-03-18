@@ -1,0 +1,223 @@
+
+<catalogue>
+    <book>
+        <title> Satranç </title>
+        <author> Stefan Zweig </author>
+        <publisher> Kumran </publisher>
+        <isbn> 9786058119352 </isbn>
+        <date> 2019 </date>
+        <price> 7.22 </price>
+        <url> https://www.dr.com.tr/Kitap/Satranc/Stefan-Zweig/Edebiyat/Roman/Dunya-Roman/urunno=0001797258001 </url>
+    </book>
+    
+    <book>
+        <title> Olasılıksız </title>
+        <author> Adam Fawer </author>
+        <publisher> April Yayıncılık </publisher>
+        <isbn> 9789756006054 </isbn>
+        <date> 2018 </date>
+        <price> 19.86 </price>
+        <url> https://www.dr.com.tr/Kitap/Olasiliksiz/Edebiyat/Roman/Dunya-Roman/urunno=0000000204878 </url>
+    </book>
+    
+     <book>
+        <title> Çakra Kitabı </title>
+        <author> Osho </author>
+        <publisher> Butik </publisher>
+        <isbn> 9786055154981 </isbn>
+        <date> 2016 </date>
+        <price> 21.48 </price>
+        <url> https://www.dr.com.tr/Kitap/OSHO-Cakra-Kitabi/Osho/Egitim-Basvuru/Kisisel-Gelisim/urunno=0000000712032 </url>
+    </book>
+    
+    <book>
+        <title> The Secret - Sır </title>
+        <author> Rhonda Byrne </author>
+        <publisher> Artemis Yayınları  </publisher>
+        <isbn> 9786054482658 </isbn>
+        <date> 2016 </date>
+        <price> 29.94 </price>
+        <url> https://www.dr.com.tr/Kitap/The-Secret-Sir/Egitim-Basvuru/Kisisel-Gelisim/urunno=0000000366425 </url>
+    </book>
+    
+        <book>
+        <title> Akılla Bir Konuşmam Oldu </title>
+        <author> Fazıl Say </author>
+        <publisher> Doğan Kitap </publisher>
+        <isbn> 9786050947038 </isbn>
+        <date> 2017 </date>
+        <price> 9.90 </price>
+        <url> https://www.dr.com.tr/Kitap/Akilla-Bir-Konusmam-Oldu/Edebiyat/Denemeyazin/urunno=0001727847001 </url>
+    </book>
+    
+        <book>
+        <title> Hayvan Çiftliği </title>
+        <author> George Orwell </author>
+        <publisher> Can Yayınları </publisher>
+        <isbn> 9789750719387 </isbn>
+        <date> 2001 </date>
+        <price> 12.31 </price>
+        <url> https://www.dr.com.tr/Kitap/Hayvan-Ciftligi/Edebiyat/Roman/Dunya-Roman/urunno=0000000105409 </url>
+    </book>
+    
+        <book>
+        <title> Simyacı </title>
+        <author> Paulo Coelho </author>
+        <publisher> Can Yayınları </publisher>
+        <isbn> 9789750726439 </isbn>
+        <date> 2010 </date>
+        <price> 14.26 </price>
+        <url> https://www.dr.com.tr/Kitap/Simyaci/Edebiyat/Roman/Dunya-Roman/urunno=0000000064552 </url>
+    </book>
+    
+        <book>
+        <title> Fahrenheit 451 </title>
+        <author> Ray Bradbury </author>
+        <publisher> İthaki Yayınları </publisher>
+        <isbn> 9786053757818 </isbn>
+        <date> 2018 </date>
+        <price> 14.44 </price>
+        <url> https://www.dr.com.tr/Kitap/Fahrenheit-451/Edebiyat/Roman/Bilim-Kurgu/urunno=0001750151001 </url>
+    </book>
+    
+        <book>
+        <title> Ikigai-Japonların Uzun ve Mutlu Yaşam Sırrı </title>
+        <author> Hector Garcia, Francesc Miralles </author>
+        <publisher> İndigo Kitap </publisher>
+        <isbn> 9786052361450 </isbn>
+        <date> 2017 </date>
+        <price> 11.99 </price>
+        <url> https://www.dr.com.tr/Kitap/Ikigai-Japonlarin-Uzun-Ve-Mutlu-Yasam-Sirri/Egitim-Basvuru/Kisisel-Gelisim/urunno=0001735494001 </url>
+    </book>
+    
+        <book>
+        <title> Suç ve Ceza </title>
+        <author> Fyodor Mihayloviç Dostoyevski </author>
+        <publisher> İletişim Yayıncılık </publisher>
+        <isbn> 9789750516146 </isbn>
+        <date> 2014 </date>
+        <price> 25.35 </price>
+        <url> https://www.dr.com.tr/Kitap/Suc-Ve-Ceza/Edebiyat/Roman/Dunya-Klasik/urunno=0000000610675 </url>
+    </book>
+    
+        <book>
+        <title> Koku </title>
+        <author> Patrick Süskind </author>
+        <publisher> Can Yayınları </publisher>
+        <isbn> 9789750737992 </isbn>
+        <date> 2016 </date>
+        <price> 18.05 </price>
+        <url> https://www.dr.com.tr/Kitap/Koku/Edebiyat/Roman/Dunya-Roman/urunno=0000000064051 </url>
+    </book>
+    
+        <book>
+        <title> 1984 </title>
+        <author> George Orwell </author>
+        <publisher> Can Yayınları </publisher>
+        <isbn> 9789750718533 </isbn>
+        <date> 2000 </date>
+        <price> 21.39 </price>
+        <url> https://www.dr.com.tr/Kitap/1984/Edebiyat/Roman/Dunya-Roman/urunno=0000000064038 </url>
+    </book>
+    
+        <book>
+        <title> Sineklerin Tanrısı </title>
+        <author> William Golding </author>
+        <publisher> İş Bankası Kültür Yayınları </publisher>
+        <isbn> 9789754582901 </isbn>
+        <date> 2006 </date>
+        <price> 12.48 </price>
+        <url> https://www.dr.com.tr/Kitap/Sineklerin-Tanrisi/Edebiyat/Roman/Dunya-Roman/urunno=0000000107800 </url>
+    </book>
+    
+        <book>
+        <title> İçimizdeki Şeytan </title>
+        <author> Sabahattin Ali </author>
+        <publisher> Yapı Kredi Yayınları </publisher>
+        <isbn> 9789753638036 </isbn>
+        <date> 2016 </date>
+        <price> 6.48 </price>
+        <url> https://www.dr.com.tr/Kitap/Icimizdeki-Seytan/Edebiyat/Roman/Turkiye-Roman/urunno=0000000058246 </url>
+    </book>
+    
+     <book>
+        <title> Şeker Portakalı </title>
+        <author> Jose Mauro De Vasconcelos </author>
+        <publisher> Can Çocuk Yayınları </publisher>
+        <isbn> 9789750738609 </isbn>
+        <date> 2000 </date>
+        <price> 14.26 </price>
+        <url> https://www.dr.com.tr/Kitap/Seker-Portakali/Edebiyat/Roman/Dunya-Roman/urunno=0000000064031 </url>
+    </book>
+    
+     <book>
+        <title> Fareler ve İnsanlar </title>
+        <author> John Steinbeck </author>
+        <publisher> Sel Yayıncılık </publisher>
+        <isbn> 9789755705859 </isbn>
+        <date> 2012 </date>
+        <price> 9.72 </price>
+        <url> https://www.dr.com.tr/Kitap/Fareler-Ve-Insanlar/Edebiyat/Roman/Dunya-Klasik/urunno=0000000411500 </url>
+    </book>
+    
+     <book>
+        <title> Bülbülü Öldürmek </title>
+        <author> Harper Lee </author>
+        <publisher> Sel Yayıncılık </publisher>
+        <isbn> 9789755706849 </isbn>
+        <date> 2014 </date>
+        <price> 16.67 </price>
+        <url> https://www.dr.com.tr/Kitap/Bulbulu-Oldurmek/Edebiyat/Roman/Dunya-Roman/urunno=0000000610771 </url>
+    </book>
+    
+     <book>
+        <title> Beyaz Zambaklar Ülkesinde </title>
+        <author> Grigory Petrov </author>
+        <publisher> Koridor Yayıncılık </publisher>
+        <isbn> 9789944983990 </isbn>
+        <date> 2007 </date>
+        <price> 9.07 </price>
+        <url> https://www.dr.com.tr/Kitap/Beyaz-Zambaklar-Ulkesinde/Edebiyat/Roman/Dunya-Klasik/urunno=0000000250242 </url>
+    </book>
+    
+     <book>
+        <title> Serenad </title>
+        <author> Zülfü Livaneli </author>
+        <publisher> Doğan Kitap </publisher>
+        <isbn> 9786050900286 </isbn>
+        <date> 2016 </date>
+        <price> 22.69 </price>
+        <url> https://www.dr.com.tr/Kitap/Serenad/Edebiyat/Roman/Turkiye-Roman/urunno=0000000357335 </url>
+    </book>
+    
+     <book>
+        <title> Üç Kız Kardeş </title>
+        <author> İclal Aydın </author>
+        <publisher> Artemis Yayınları </publisher>
+        <isbn> 9786053043249 </isbn>
+        <date> 2018 </date>
+        <price> 15.28 </price>
+        <url> https://www.dr.com.tr/Kitap/Uc-Kiz-Kardes/Edebiyat/Roman/Turkiye-Roman/urunno=0001743040001 </url>
+    </book>
+    
+     <book>
+        <title> Kaktüsler de Çiçek Açar </title>
+        <author> Songül Ünsal </author>
+        <publisher> Olimpos Yayınları </publisher>
+        <isbn> 9786057906120 </isbn>
+        <date> 2019 </date>
+        <price> 14.25 </price>
+        <url> https://www.dr.com.tr/Kitap/Kaktusler-de-Cicek-Acar/Edebiyat/Roman/Turkiye-Roman/urunno=0001795983001 </url>
+    </book>
+    
+     <book>
+        <title> Bir İdam Mahkumunun Son Günü </title>
+        <author> Victor Hugo </author>
+        <publisher> İş Bankası Kültür Yayınları </publisher>
+        <isbn> 9786053609902 </isbn>
+        <date> 2016 </date>
+        <price> 6.48 </price>
+        <url> https://www.dr.com.tr/Kitap/Bir-Idam-Mahkumunun-Son-Gunu-Hasan-Ali-Yucel-Klasikleri/Edebiyat/Roman/Dunya-Klasik/urunno=0000000567743 </url>
+    </book>
+    
+    </catalogue>
